@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 ¡Hola! Somos R1 Aventuras
 
-<!--
-**RAventuras/RAventuras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Somos un equipo de guías especializados en actividades de aventura en el Pirineo Aragonés, con base en Villanúa (Huesca).
 
-Here are some ideas to get you started:
+🏞️ **Ofrecemos experiencias únicas como:**
+- Barranquismo
+- Vías ferratas
+- Escalada
+- Raquetas de nieve
+- Clases de esquí y actividades personalizadas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Visítanos aquí**:  
+👉 [www.r1aventuras.com](https://www.r1aventuras.com)
+
+🎯 Conectamos a las personas con la naturaleza de forma segura, divertida y profesional.
+
+📲 Síguenos también en redes:
+- [Instagram](https://www.instagram.com/r1aventuras)
+- [YouTube](https://www.youtube.com/@R1Aventuras)
+- [TikTok](https://www.tiktok.com/@r1.aventuras)
+
+---
+
+¡Nos vemos en la montaña! 🧗‍♂️🏔️
